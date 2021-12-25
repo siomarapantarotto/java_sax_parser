@@ -36,27 +36,25 @@ The parser code will read the data and, after the whole document is read, the pa
 
 The following 7 files compose the Java Sax Parser example:
 
-1) DBProperties.txt 	Contains the parameters to connect to the database
-2) DSales.xml	Contains the data to be parsed
-3) ctSales.sql 	Contains the script to create the table Sales into Oracle database
-4) DBConnection.java 	Establish connection with the database
-5) Sale.java	Contains the definition of class Sale
-6) SaleManager.java	Manage transactions with the database like insert, update, delete
-7) DWSAXParser.java	Read the XML file, parse the data and populate the database
+1) DBProperties.txt - Contains the parameters to connect to the database.
+2) DSales.xml - Contains the data to be parsed.
+3) ctSales.sql - Contains the script to create the table Sales into Oracle database.
+4) DBConnection.java - Establish connection with the database.
+5) Sale.java - Contains the definition of class Sale.
+6) SaleManager.java - Manage transactions with the database like insert, update, delete.
+7) DWSAXParser.java - Read the XML file, parse the data and populate the database.
 
 
 ## Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Jakarta-Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Android%20Studio-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Build%20Tool-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
 ## Screenshots
-<kbd><img src="https://user-images.githubusercontent.com/5893219/147393914-4e243041-ef95-4cea-b756-b80b6c07d8ba.png" width="300" height="300"></kbd>
-<kbd><img src="https://user-images.githubusercontent.com/5893219/147393913-daad819e-e261-492a-bdde-06fef2ea1c1d.png" width="300" height="300"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/147393914-4e243041-ef95-4cea-b756-b80b6c07d8ba.png" width="500" height="450"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/147393913-daad819e-e261-492a-bdde-06fef2ea1c1d.png" width="500" height="450"></kbd>
 
 
 <!-- FOOTER (Author / Visit My Online Resume / Download My PDF Resume) -->
