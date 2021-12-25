@@ -1,0 +1,7 @@
+jdbc.driver=oracle.jdbc.driver.OracleDriver
+jdbc.driverType=jdbc:oracle:thin:@
+jdbc.host=999.999.99.999
+jdbc.port=1521
+jdbc.sid=dbname
+jdbc.username=scott
+jdbc.password=tiger

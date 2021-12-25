@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+
+<!-- CD.com Data Warehouse Information to be parsed via Sax Parser -->
+
+<!DOCTYPE sales
+[
+	<!ELEMENT sales (card+)>
+	<!ELEMENT sale (date, fullname, street, city, state, zipcode, country,
+    				product, quantity, price)>
+	<!ELEMENT date		(#PCDATA)>
+	<!ELEMENT fullname	(#PCDATA)>
+	<!ELEMENT street	(#PCDATA)>
+    <!ELEMENT city		(#PCDATA)>
+    <!ELEMENT state		(#PCDATA)>
+    <!ELEMENT zipcode	(#PCDATA)>
+    <!ELEMENT country	(#PCDATA)>
+    <!ELEMENT product	(#PCDATA)>
+    <!ELEMENT quantity	(#PCDATA)>
+    <!ELEMENT price		(#PCDATA)>
+]>
+
+<sales>
+	<sale>
+		<date>01-JAN-2001</date>
+		<fullname>John Smith</fullname>
+		<street>100 Sansome Street suite 10</street>
+		<city>San Francisco</city>
+        <state>CA</state>
+		<zipcode>94111</zipcode>
+		<country>USA</country>
+		<product>Singing with Santa Claus</product>
+		<quantity>100</quantity>
+		<price>10.00</price>
+	</sale>
+    <sale>
+		<date>02-FEB-2002</date>
+		<fullname>Mary Cooper</fullname>
+		<street>200 California Street suite 20</street>
+		<city>San Francisco</city>
+        <state>CA</state>
+		<zipcode>94111</zipcode>
+		<country>USA</country>
+		<product>Bethoven Simphony</product>
+		<quantity>200</quantity>
+		<price>20.00</price>
+	</sale>
+    <sale>
+		<date>03-MAR-2003</date>
+		<fullname>Peter Lovan</fullname>
+		<street>300 Main Street suite 30</street>
+		<city>Oakland</city>
+        <state>CA</state>
+		<zipcode>98000</zipcode>
+		<country>USA</country>
+		<product>Tropical Songs II</product>
+		<quantity>300</quantity>
+		<price>3.00</price>
+	</sale>
+</sales>
