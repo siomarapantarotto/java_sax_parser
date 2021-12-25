@@ -49,12 +49,13 @@ The following 7 files compose the Java Sax Parser example:
 
 <p>
   <img src="https://img.shields.io/badge/Jakarta-Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DB-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
 ## Screenshots
-<kbd><img src="https://user-images.githubusercontent.com/5893219/147393914-4e243041-ef95-4cea-b756-b80b6c07d8ba.png" width="500" height="450"></kbd>
-<kbd><img src="https://user-images.githubusercontent.com/5893219/147393913-daad819e-e261-492a-bdde-06fef2ea1c1d.png" width="500" height="450"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/147393914-4e243041-ef95-4cea-b756-b80b6c07d8ba.png" width="400" height="400"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/147393913-daad819e-e261-492a-bdde-06fef2ea1c1d.png" width="400" height="400"></kbd>
 
 
 <!-- FOOTER (Author / Visit My Online Resume / Download My PDF Resume) -->
